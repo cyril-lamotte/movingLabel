@@ -1,7 +1,7 @@
 
-![Tag](https://img.shields.io/github/v/tag/cyril-lamotte/jquery.toggle-panel)
-![Licence](https://img.shields.io/github/license/cyril-lamotte/jquery.toggle-panel)
-![Top language](https://img.shields.io/github/languages/top/cyril-lamotte/jquery.toggle-panel)
+![Tag](https://img.shields.io/github/v/tag/cyril-lamotte/movingLabel)
+![Licence](https://img.shields.io/github/license/cyril-lamotte/movingLabel)
+![Top language](https://img.shields.io/github/languages/top/cyril-lamotte/movingLabel)
 
 Display label inside a text field and move to the top on focus.
 
