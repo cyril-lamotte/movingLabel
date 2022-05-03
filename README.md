@@ -5,7 +5,7 @@
 
 Display label inside a text field and move to the top on focus.
 
-[https://cyril-lamotte.github.io/movingLabel/](See the demo)
+[See the demo](https://cyril-lamotte.github.io/movingLabel/)
 
 ## Usage
 
