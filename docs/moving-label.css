@@ -1,7 +1,7 @@
 /* demo */
 
 .hint {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 input {
@@ -9,7 +9,6 @@ input {
   padding: 1rem;
   border-radius: 10px;
 }
-
 
 .moving-label-wrap {
   position: relative;
