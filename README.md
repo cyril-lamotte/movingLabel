@@ -3,8 +3,6 @@
 ![Licence](https://img.shields.io/github/license/cyril-lamotte/jquery.toggle-panel)
 ![Top language](https://img.shields.io/github/languages/top/cyril-lamotte/jquery.toggle-panel)
 
-# MovingLabel
-
 Display label inside a text field and move to the top on focus.
 
 ## Usage
@@ -65,7 +63,7 @@ import MovingLabel from '../modules/movingLabel';
 // Moving labels.
 const labelList = document.querySelectorAll('.moving-label');
 labelList.forEach((label) => {
-  const movingLabel = new MovingLabel(label);
+  const movingLabel = new MovingLabel(label, {});
 });
 
 ```
