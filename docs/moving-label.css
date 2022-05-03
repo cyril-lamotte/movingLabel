@@ -5,6 +5,7 @@
 }
 
 input {
+  border: 1px solid #ccc;
   padding: 1rem;
   border-radius: 10px;
 }
@@ -12,6 +13,7 @@ input {
 
 .moving-label-wrap {
   position: relative;
+  margin-bottom: 30px;
 }
 
 .moving-label {
