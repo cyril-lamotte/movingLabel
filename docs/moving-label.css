@@ -1,3 +1,16 @@
+/* demo */
+
+.hint {
+  margin-bottom: 2rem;
+}
+
+input {
+  border: 0;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+
 .moving-label-wrap {
   position: relative;
 }

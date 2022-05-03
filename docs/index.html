@@ -1,13 +1,24 @@
 ---
-layout: postxx
+layout: post
 title: Demo
 ---
 
 <link rel="stylesheet" href="moving-label.css">
 
+<p class="hint">The label moves if the focus is given or if the field is filled.</p>
+
 <div class="moving-label-wrap">
   <label for="field" class="moving-label">My label</label>
   <input type="text" name="field" id="field">
 </div>
+
+
+<p class="hint">The label stay up if a placeholder is detected.</p>
+
+<div class="moving-label-wrap">
+  <label for="i-ph" class="moving-label">Demo with placeholder</label>
+  <input type="text" name="i-ph" id="i-ph" placeholder="Placeholder">
+</div>
+
 
 <script src="moving-label.js" type="module"></script>
