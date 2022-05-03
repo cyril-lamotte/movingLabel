@@ -3,6 +3,8 @@
 ![Licence](https://img.shields.io/github/license/cyril-lamotte/movingLabel)
 ![Top language](https://img.shields.io/github/languages/top/cyril-lamotte/movingLabel)
 
+# movingLabel
+
 Display label inside a text field and move to the top on focus.
 
 [See the demo](https://cyril-lamotte.github.io/movingLabel/)
