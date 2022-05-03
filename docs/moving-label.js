@@ -1,4 +1,4 @@
-import MovingLabel from 'movingLabel';
+import MovingLabel from './movingLabel';
 
 // Moving labels.
 const labelList = document.querySelectorAll('.moving-label');
